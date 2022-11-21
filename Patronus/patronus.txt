@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-print("hello world")
-snape
-harry
-=======
-111111111111111111111111
-print("HELLO WORLD")
->>>>>>> harry
+
